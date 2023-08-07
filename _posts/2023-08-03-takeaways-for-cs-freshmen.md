@@ -3,7 +3,7 @@ title: "Advice to CS Freshmen: The Best Mindset for Learning Computer Science"
 date: 2023-08-03
 last_modified_at: 2023-08-07
 categories:
-  - Blog
+  - blog
 tags:
   - takeaways
   - general
