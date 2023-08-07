@@ -9,7 +9,7 @@ tags:
   - general
 ---
 
-Where to start when I know nothing about a concept? Why does this terminal command not work as expected? Why does this bug a  ppear out of nowhere? If you are ever confused by these questions, you are **not alone.**
+Where to start when I know nothing about a concept? Why does this terminal command not work as expected? Why does this bug appear out of nowhere? If you are ever confused by these questions, you are **not alone.**
 
 Recently, I completed my first-ever software engineering experience—a summer project from ByteDance which requires building an API gateway with Golang’s web frameworks. Before this project, I was a computer science (CS) newbie who knew nothing about network and backend development. Just as I expected, I have been constantly bewildered by those questions mentioned at the very beginning of this article.
 
@@ -76,13 +76,13 @@ In my opinion, the most powerful feature is autocompleting. It helps you write c
 
 ### ChatGPT
 
-I believe there’s nothing much to say about this immensely powerful AI. There are a bunch of high-quality tutorials on the internet that teaches you how to use it. Personally, I use it for quickly getting high-level overviews of unknown concepts, reading large pieces of code, and querying some project-specific questions that are too specific to find similar ones online. I tried using it for debugging purposes, but its performance was rather unsatisfactory. By the way, I am using the free GPT-3.5 version, and I already find it sufficient for assisting my project development. 
+I believe there’s nothing much for me to say about this immensely powerful AI. There are already a bunch of high-quality tutorials on the internet that teach you how to use it. Personally, I use it for quickly getting high-level overviews of unknown concepts, reading large pieces of code and error messages, and querying some project-specific questions that are too specific to find similar ones online. I tried using it for debugging purposes, but its performance was rather unsatisfactory. By the way, I am using the free GPT-3.5 version, and I already find it sufficient for assisting my project development. 
 
 ### Command Line Tools
 
-Since you spend most of your time in the shell, it’s crucial to customise it with a set of tools that suit your need. Some tools I find handy are:
+Since you are going to spend most of your time in the shell, it’s crucial to customise it with a set of tools that suit your need. Some tools I find handy are:
 
-- `zsh-autosuggestion`: it suggests commands as you type in the shell based on your history commands;
+- `zsh-autosuggestion`: it suggests commands as you type in the shell based on your history;
 - `autojump`: it allows you to jump between frequently visited directories rather than using `cd` to make your filesystem navigation much faster;
 - `tldr`: it provides summarised manual pages for other commonly used command line tools so that you can start using unfamiliar tools quickly.
 
@@ -99,7 +99,7 @@ The last thing I want to talk about is bugs. Let’s face it (though I was quite
 
 Even if there are bugs you can’t fix after spending days, don’t get too frustrated. Often, it happens that your code is not the only source of bugs, and other factors also contribute to the problem. For example, I’ve experienced the situation where the same piece of code ran perfectly on my friend’s computer but reported bugs on mine. Sometimes, asking people for help rather than fixing it on your own can significantly save you time or at least help you see the problem more clearly.
 
-Undoubtedly, it is demoralising to spend hours or days fixing your bugs, but the good thing is your time is never wasted. **Fixing bugs requires not only carefulness but also experience.** It is always hard at the beginning, but eventually, you will find your path smoother than ever when you have “seen enough bugs”. Until that day, make peace with bugs because they will be your best friends along your computing journey.
+Undoubtedly, it is demoralising to spend hours or days fixing your bugs, but the good thing is your time is never wasted. **Fixing bugs requires not only carefulness but also experience.** It is always hard at the beginning, but eventually, you will find your path much smoother when you have “seen enough bugs”. Until that day, make peace with bugs because they will be your best friends along your computing journey.
 
 ![Two States of a Programmer][D5]{: width="100%"}
 
