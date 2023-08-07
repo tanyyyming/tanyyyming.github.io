@@ -27,6 +27,9 @@ remote_theme: mmistakes/minimal-mistakes
 # theme: minimal-mistakes-jekyll
 livereload: true
 
+livereload: true
+
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
