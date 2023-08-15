@@ -25,7 +25,6 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # theme: minimal-mistakes-jekyll
-
 livereload: true
 
 # Outputting
@@ -111,3 +110,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# SEO Related
+google_site_verification : "YmDVQvnob4NbF89c7T5gFwHjSG7WjPASyIyP_tUytpo"
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
