@@ -3,10 +3,10 @@ title: "Advice to CS Freshmen: The Best Mindset for Learning Computer Science"
 date: 2023-08-03
 last_modified_at: 2023-08-07
 categories:
-  - posts
+  - General
 tags:
-  - takeaways
-  - general
+  - For beginners
+  - Takeaways
 ---
 
 Where to start when I know nothing about a concept? Why does this terminal command not work as expected? Why does this bug appear out of nowhere? If you are ever confused by these questions, you are **not alone.**
